@@ -1,0 +1,80 @@
+/* CSS HALAMAN 1 */
+.banner {
+  background: url("https://wallpaper.dog/large/629660.jpg") no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #fff;
+}
+
+.banner h3 {
+  font-family: "Yatra One", cursive;
+}
+
+/* CSS HALAMAN 2 */
+body {
+  background-color: #212529;
+}
+
+.navbar {
+  position: relative;
+}
+
+.text-center {
+  color: #fff;
+}
+
+.about {
+  color: #fff;
+}
+
+.justify {
+  text-align: center;
+  font-style: oblique;
+}
+
+.container {
+  color: #fff;
+}
+
+.container p {
+  font-style: oblique;
+}
+
+.container h2 {
+  font-style: oblique;
+  font-family: "Arial Narrow Bold";
+  color: aliceblue;
+}
+
+.container h4 {
+  font-style: oblique;
+}
+
+.container h5 {
+  font-style: oblique;
+}
+
+.btn {
+  font-style: oblique;
+}
+
+.card-text {
+  color: black;
+  font-style: oblique;
+}
+
+.crop-img {
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.tim img {
+  width: 250px;
+  height: 250px;
+  border: 10px solid #cccccc;
+}
+
+.card:hover {
+  border: 1px solid black;
+}/*# sourceMappingURL=style.css.map */
